@@ -1,2 +1,2 @@
 # alx-frontend-javascript
-Regroup Javascripts related tasks given by alx
+Regroup Javascript related tasks given by alx
